@@ -53,5 +53,5 @@ Concept for Airbus automated drilling lines.
 - Tinkercad Circuits (wiring diagram)
 
 ## Author
-**Oscar V. Dbritto**
-M.Sc. Digitalization & Automation, PFH Stade
+**Oscar Vincent Dbritto**
+M.Sc. Digitalization & Automation
